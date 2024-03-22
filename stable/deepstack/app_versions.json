@@ -1,18 +1,18 @@
 {
-    "11.7.1": {
+    "11.7.2": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/catalog/catalog/stable/deepstack/11.7.1",
-        "last_update": "2024-03-22 12:47:11",
+        "location": "/home/runner/work/catalog/catalog/stable/deepstack/11.7.2",
+        "last_update": "2024-03-22 12:47:12",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
-        "human_version": "2022.01.1_11.7.1",
-        "version": "11.7.1",
+        "human_version": "2022.01.1_11.7.2",
+        "version": "11.7.2",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.0",
@@ -59,7 +59,7 @@
                 "https://hub.docker.com/r/deepquestai/deepstack"
             ],
             "type": "application",
-            "version": "11.7.1"
+            "version": "11.7.2"
         },
         "app_metadata": null,
         "schema": {
